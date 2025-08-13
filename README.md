@@ -1,8 +1,8 @@
 # Hi, I’m Rahul 👋
 
-🚀 **Software Engineer** specializing in **AI/ML**, **Cloud Architecture**, and **Data Engineering**. Passionate about **Product Innovation** and leading technical initiatives from concept to production scale.
+🚀 **Software Engineer** specializing in **AI/ML**, **Cloud Architecture**, and **Data Engineering**. Aspiring **Product Manager** passionate about leading technical initiatives from concept to production scale.
 ---
-I design and build **scalable, secure, and data-driven systems** — delivering solutions across **AI/ML**, **backend engineering**, and **cloud infrastructure** that power intelligent applications and large-scale analytics.  
+I design and build **scalable, secure, and data-driven systems** — delivering solutions across **AI/ML**, **backend engineering**, and **cloud infrastructure** that power intelligent applications and large-scale analytics. Passionate about **Product Innovation** and bridging the gap between technical execution and strategic product vision.
 💡 Currently experimenting with **MCP servers**!
 
 ---
