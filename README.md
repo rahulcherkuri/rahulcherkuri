@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I’m Rahul 👋
 
-<!--
-**rahulcherkuri/rahulcherkuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Engineer** specializing in **AI/ML**, **Cloud Architecture**, and **Data Engineering**.  
 
-Here are some ideas to get you started:
+---
+I design and build **scalable, secure, and data-driven systems** — delivering solutions across **AI/ML**, **backend engineering**, and **cloud infrastructure** that power intelligent applications and large-scale analytics.  
+💡 Currently experimenting with **MCP servers**!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+**💻 Languages:** Python, Java, Scala, JavaScript/TypeScript, SQL, C/C++  
+**⚙️ Frameworks:** Flask, Django, FastAPI, React, Spark, Hadoop  
+**☁️ Cloud & DevOps:** AWS (EC2, S3, Lambda, DynamoDB), Docker, Kubernetes, GitHub Actions  
+**🤖 AI/ML:** TensorFlow, PyTorch, LangChain, Scikit-learn, Transformers  
+**🗄 Databases:** MySQL, PostgreSQL, NoSQL, Pinecone  
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [**CarbonIQ**](https://github.com/rahulcherkuri/carboniq-ai) | GPT-4 + RAG carbon tracker generating science-backed reduction plans with real-time analytics. | Next.js, Node.js, AWS, Pinecone, OpenAI |
+| [**Wildfire Geospatial Analyzer**](https://github.com/rahulcherkuri/wildfire-spark-analyzer) | Distributed Spark + Scala pipeline processing **100K+ wildfire records** for county-level risk forecasting in **<60s**. | Apache Spark, Scala, Beast-Spark, SparkSQL |
+| [**EventLink**](https://github.com/jennysdao/EventLink) | Real-time campus event scheduling backend with concurrency support, backend tests, and MySQL optimization. | React Native, Expo, MySQL |
+
+---
+
+## 📊 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulcherkuri&layout=compact&theme=radical)
+
+---
+
+## 📫 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulcherkuri)  
+📧 **Email:** [rahul.cherkuri@gmail.com](mailto:rahul.cherkuri@gmail.com)  
+🌐 **Portfolio:** *Coming Soon*
+
+---
