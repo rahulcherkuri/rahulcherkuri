@@ -30,7 +30,8 @@ I design and build **scalable, secure, and data-driven systems** — delivering 
 ## 📫 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulcherkuri)  
-📧 **Email:** [rahul.cherkuri@gmail.com](mailto:rahul.cherkuri@gmail.com)
+📧 **Email:** [rahul.cherkuri@gmail.com](mailto:rahul.cherkuri@gmail.com)  
+
 🌐 [**Portfolio**](https://rahulcherkuri.netlify.app/)
 
 ---
