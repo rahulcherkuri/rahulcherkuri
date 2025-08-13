@@ -28,12 +28,6 @@ I design and build **scalable, secure, and data-driven systems** — delivering 
 
 ---
 
-## 📊 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulcherkuri&layout=compact&theme=radical)
-
----
-
 ## 📫 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulcherkuri)  
